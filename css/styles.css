@@ -497,9 +497,8 @@ body {
     background-color: var(--success);
 }
 
-.footer-form {
-   display: flex;
-   align-items: flex-end;
+.footer-email-form {
+    display: flex;
 }
 
 .footer-form-field {
